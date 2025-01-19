@@ -1,3 +1,3 @@
-# go movies crud api using gorilla mix
+# go movies crud api using gorilla mux
 
 Source code is in branch 'master'
